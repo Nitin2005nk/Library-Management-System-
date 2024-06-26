@@ -286,3 +286,6 @@ clear_and_display()
 # Finalizing the window
 root.update()
 root.mainloop()
+
+
+![image](https://github.com/Nitin2005nk/Library-Management-System-/assets/159499654/61c914dd-d2c4-47f8-9d25-787193ab710f)
